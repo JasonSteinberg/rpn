@@ -1,0 +1,6 @@
+/.idea/apiRPN.iml
+/.idea/modules.xml
+/.idea/workspace.xml
+/apiRPN
+/rpCalc/rpCalc.go
+/server_test.go
